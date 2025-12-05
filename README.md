@@ -81,6 +81,11 @@ App (State Machine)
 ├── Results (Report Display)
 └── Error (Error Boundary)
 ```
+### Screenshot
+<img width="1216" height="797" alt="image" src="https://github.com/user-attachments/assets/7af52927-0deb-4b92-9239-ca602b0a20eb" />
+<img width="1168" height="930" alt="image" src="https://github.com/user-attachments/assets/1fcb50d1-9ada-4a95-b602-d1a4701d2325" />
+
+
 
 ---
 
